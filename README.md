@@ -9,7 +9,7 @@ This project focuses on backend fundamentals including dynamic templates, reusab
 
 ---
 
-## 🚀 Features
+## Features
 
 - Server-side rendering with EJS
 - Dynamic data passed from Express to views
@@ -29,7 +29,7 @@ This project focuses on backend fundamentals including dynamic templates, reusab
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 project/
 │
@@ -47,7 +47,7 @@ project/
 └── user.ejs
 
 
-## 📦 Installation
+## Installation
 
 Clone the repository:
 
@@ -72,14 +72,14 @@ http://localhost:3000
 
 ---
 
-## 📖 Routes
+## Routes
 
 - `/` → Home page
 - `/about` → About page
 
 ---
 
-## 🎯 Learning Goals
+## Learning Goals
 
 This project was built to strengthen understanding of:
 
