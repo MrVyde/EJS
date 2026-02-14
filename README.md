@@ -21,7 +21,7 @@ This project focuses on backend fundamentals including dynamic templates, reusab
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Node.js
 - Express
